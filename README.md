@@ -1,7 +1,7 @@
 # Sign_Language
 Hand Gesture Recognition (ASL) using MediaPipe
 ![demo1](https://github.com/Muskanpandey0304/Hand_Sign_Language/blob/main/images/demo_1.png)
-![demo2](https://github.com/Muskanpandey0304/Hand_Sign_Language/blob/main/images/demo_1.png)
+![demo2](https://github.com/Muskanpandey0304/Hand_Sign_Language/blob/main/images/demo_2.png)
 
 This project recognizes American Sign Language (ASL) hand signs and finger gestures in real time using MediaPipe (Python) and a simple MLP classifier.
 
